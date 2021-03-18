@@ -1,0 +1,16 @@
+
+
+
+body {
+    font-family: Arial;
+    width: default;
+    text-align: center;
+}
+#pics{
+    width: 900px;
+    height: 900px;
+    border: solid 1px black;
+    font-size: 0px;
+    margin:auto;
+
+}
